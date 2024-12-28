@@ -23,7 +23,7 @@ A command-line program implementing the RSA encryption scheme. It supports gener
 ## Installation
 ```bash
 # Clone the repository
-git clone [your-repository-url]
+git clone https://github.com/dan-willia/RSAencryptor.git
 
 # Navigate to directory
 cd RSAencryptor
